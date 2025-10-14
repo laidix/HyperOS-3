@@ -17,15 +17,18 @@ Data erase is REQUIRED to install that rom. The script will do it automatically 
 Make sure you reead the information up there. After you've downloaded the port, unpack it with 7z or WinRAR or if you are on Windows 11 just unpack it with in built archiver. After that, you'll see needed resources for flashing, such as super.img and vbmeta. You'll also see another images, just dont touch them, they are mostly needed for personalization of the phone and to get better look. Just run flash_all.bat if you are on windows or flash_all.sh if you are on linux or MacOS. The script will ask you if you are on HyperOS 1(Infos up there), and after you confirmed it, the flash will start. The script will erase the data of your phone after flashing the port. Just wait until the end of flashing and the phone will reboot automatically. Then youll need just to chill and enjoy your port. <br><br>
 
 # Downloads
-Here you go, you scrolled here. There is one download link here, but we will add some other links soon.<br><br>
+Here you go, you scrolled here. There is one download link here, but we will add some other links soon.<br>
 
 <a href="https://drive.google.com/file/d/12uXxqoKxpBzTL4xQYSVCc7pKpyx-AVNu/view?usp=sharing">Google drive</a>
 
-# Join us
-<a href="https://t.me/goldports">Telegram(Channel)</a>
-<a href="https://t.me/RedmiNote13_Community">Redmi Note 13 5G Community Chat</a>
-<a href="https://t.me/laidix">laidix(Port creator)</a>
+# Thank you for download!
 
-Porting with ♥️,
+# Join us
+<a href="https://t.me/goldports">Telegram(Channel)</a><br>
+<a href="https://t.me/RedmiNote13_Community">Redmi Note 13 5G Community Chat</a><br>
+<a href="https://t.me/laidix">laidix(Port creator)</a><br>
+
+# Thank you for using!
+Porting with ♥️, <br>
 Your goldenports. Enjoy your port.
 
