@@ -19,6 +19,8 @@ Make sure you reead the information up there. After you've downloaded the port, 
 # Downloads
 Here you go, you scrolled here. There is one download link here, but we will add some other links soon.<br>
 
+# THIS ROM IS STILL EXPERIMENRAL. WHEN BUGS, GO TO THE "JOIN US" SECTION
+
 <a href="https://drive.google.com/file/d/12uXxqoKxpBzTL4xQYSVCc7pKpyx-AVNu/view?usp=sharing">Google drive</a>
 
 # Thank you for download!
