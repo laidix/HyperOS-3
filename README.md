@@ -21,7 +21,7 @@ Here you go, you scrolled here. There is one download link here, but we will add
 
 # THIS ROM IS STILL EXPERIMENRAL. WHEN BUGS, GO TO THE "JOIN US" SECTION
 
-<a href="https://drive.google.com/file/d/12uXxqoKxpBzTL4xQYSVCc7pKpyx-AVNu/view?usp=sharing">Google drive</a>
+--TEMPORARY CLOSED DUE FIXING BUGS--
 
 # Thank you for download!
 
