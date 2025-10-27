@@ -23,6 +23,8 @@ Here you go, you scrolled here. There is one download link here, but we will add
 
 <p>Experimental: </p><a href="https://drive.google.com/file/d/1REKGRlQJWUQbLgiug3xelcBDniKSSD3L/view?usp=sharing">Google Drive</a><br>
 
+# Archive password: laiclax52
+
 # Thank you for download!
 
 # Join us
