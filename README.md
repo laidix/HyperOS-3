@@ -18,16 +18,21 @@ Make sure you reead the information up there. After you've downloaded the port, 
 
 # Downloads
 Here you go, you scrolled here. There is one download link here, but we will add some other links soon.<br>
+<a href="https://drive.google.com/file/d/1NfACLn5AYKDdlMj11LOKcai4YdAx8Ery/view?usp=sharing">Google Drive</a>
 
-# THIS ROM IS STILL EXPERIMENRAL. WHEN BUGS, GO TO THE "JOIN US" SECTION
+# Want to be HyperOS 3 / Future HyperOS tester?
+The development of the port does not stand in the place! Woth your bug reports, I can fix issues and then update the port here.<br><br>
 
-<p>Experimental: </p><a href="https://drive.google.com/file/d/1NfACLn5AYKDdlMj11LOKcai4YdAx8Ery/view?usp=sharing">Google Drive</a><br>
+Go to the contact section and type in the goldports channel direct or in group! Thank you ❤️
+
+# Bugs?
+Go to Contact section and select the way I can communicate with you!
 
 # Archive password: laiclax52
 
 # Thank you for download!
 
-# Join us
+# Contact / Join Us
 <a href="https://t.me/goldports">Telegram(Channel)</a><br>
 <a href="https://t.me/RedmiNote_13Community">Redmi Note 13 5G Community Chat</a><br>
 <a href="https://t.me/laidix">laidix(Port creator)</a><br>
